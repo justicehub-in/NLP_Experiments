@@ -1,0 +1,78 @@
+,file_name,entity,label,normalised_entities
+0,sample_judgement1_NER.csv,s 4,PROVISION,s 4 of Protection of Children from Sexual Offences Act
+1,sample_judgement1_NER.csv,s 4,PROVISION,s 4 of Protection of Children from Sexual Offences Act
+2,sample_judgement1_NER.csv,s 4,PROVISION,s 4 of Protection of Children from Sexual Offences Act
+3,sample_judgement1_NER.csv,section 2(d),PROVISION,section 2(d) of Protection of Children from Sexual Offences Act
+4,sample_judgement1_NER.csv,s 2(d),PROVISION,s 2(d) of Protection of Children from Sexual Offences Act
+5,sample_judgement1_NER.csv,s 4,PROVISION,s 4 of Protection of Children from Sexual Offences Act
+6,sample_judgement1_NER.csv,section 2(d),PROVISION,section 2(d) of Protection of Children from Sexual Offences Act
+7,sample_judgement1_NER.csv,s 3,PROVISION,s 3 of Protection of Children from Sexual Offences Act
+8,sample_judgement1_NER.csv,s 164,PROVISION,s 164 of Code of Criminal Procedure 
+9,sample_judgement1_NER.csv,s 313,PROVISION,s 313 of Code of Criminal Procedure 
+10,sample_judgement1_NER.csv,s 164,PROVISION,s 164 of Code of Criminal Procedure 
+11,sample_judgement1_NER.csv,s 164,PROVISION,s 164 of Code of Criminal Procedure 
+12,sample_judgement1_NER.csv,s 437-A,PROVISION,s 437-A of Code of Criminal Procedure 
+13,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+14,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+15,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+16,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+17,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+18,sample_judgement1_NER.csv,POCSO Act,STATUTE,Protection of Children from Sexual Offences Act
+19,sample_judgement1_NER.csv,Protection of Children from Sexual Offences Act,STATUTE,Protection of Children from Sexual Offences Act
+20,sample_judgement1_NER.csv,Code of Criminal Procedure,STATUTE,Code of Criminal Procedure 
+21,sample_judgement1_NER.csv,CrPC,STATUTE,Code of Criminal Procedure 
+22,sample_judgement1_NER.csv,CrPC,STATUTE,Code of Criminal Procedure 
+23,sample_judgement1_NER.csv,CrPC,STATUTE,Code of Criminal Procedure 
+24,sample_judgement1_NER.csv,CrPC,STATUTE,Code of Criminal Procedure 
+25,sample_judgement1_NER.csv,CrPC,STATUTE,Code of Criminal Procedure 
+26,sample_judgement1_NER.csv,"Special Court, Baksa : At Mushalpur",COURT,
+27,sample_judgement1_NER.csv,C. Das,JUDGE,
+28,sample_judgement1_NER.csv,State,PETITIONER,
+29,sample_judgement1_NER.csv,Alfan Soren,RESPONDENT,
+30,sample_judgement1_NER.csv,R. Chetry,LAWYER,
+31,sample_judgement1_NER.csv,T. Sarma,LAWYER,
+32,sample_judgement1_NER.csv,Shankar Konwar,PETITIONER,
+33,sample_judgement1_NER.csv,Darranga-mela,OTHER_PERSON,
+34,sample_judgement1_NER.csv,12.9.17,DATE,
+35,sample_judgement1_NER.csv,Tamulpur police station,ORG,
+36,sample_judgement1_NER.csv,Tamulpur police station,ORG,
+37,sample_judgement1_NER.csv,Tamulpur PS,ORG,
+38,sample_judgement1_NER.csv,Case No.262/17,CASE_NUMBER,
+39,sample_judgement1_NER.csv,Mushalour,OTHER_PERSON,
+40,sample_judgement1_NER.csv,12.9.17,DATE,
+41,sample_judgement1_NER.csv,Horotola,GPE,
+42,sample_judgement1_NER.csv,Tamulpur police station,ORG,
+43,sample_judgement1_NER.csv,Shankar Konwar,OTHER_PERSON,
+44,sample_judgement1_NER.csv,Supreme Court,COURT,
+45,sample_judgement1_NER.csv,Mukesh vs. State of Chhatisgarh in Cri,PRECEDENT,
+46,sample_judgement1_NER.csv,Appeal No.1114 of 2011,CASE_NUMBER,
+47,sample_judgement1_NER.csv,"25"" September 2014",DATE,
+48,sample_judgement1_NER.csv,"Mohd. Iqbal vs.
+State of Jharkhand",PRECEDENT,
+49,sample_judgement1_NER.csv,Narender Kumar vs. State of (NCT of Delhi),PRECEDENT,
+50,sample_judgement1_NER.csv,Shankar Konwar,WITNESS,
+51,sample_judgement1_NER.csv,Baksa Mushalrr,OTHER_PERSON,
+52,sample_judgement1_NER.csv,Shankar Konwar,WITNESS,
+53,sample_judgement1_NER.csv,Jaymati Konwar,WITNESS,
+54,sample_judgement1_NER.csv,Teg Bahadur Pradhan,WITNESS,
+55,sample_judgement1_NER.csv,Budheswar Munda,WITNESS,
+56,sample_judgement1_NER.csv,Dhritishree Barman,WITNESS,
+57,sample_judgement1_NER.csv,Nayanmoni Das,WITNESS,
+58,sample_judgement1_NER.csv,"State of Bihar vs. Kapil Singh, AIR 1969 SC 53",PRECEDENT,
+59,sample_judgement1_NER.csv,Assam Victim Compensation Scheme,ORG,
+60,sample_judgement1_NER.csv,"DLSA, Baksa",ORG,
+61,sample_judgement1_NER.csv,Mushalpur,GPE,
+62,sample_judgement1_NER.csv,"DLSA, Baksa",ORG,
+63,sample_judgement1_NER.csv,"8"" day of July 2019",DATE,
+64,sample_judgement1_NER.csv,"C. Das JukigtgepSgial Court; Syd grecial Court,
+Baksa Mskatpuour Baksa, Mushalpus",JUDGE,
+65,sample_judgement1_NER.csv,P. Deka,OTHER_PERSON,
+66,sample_judgement1_NER.csv,Shankar Knowar,OTHER_PERSON,
+67,sample_judgement1_NER.csv,Jaymati Konwar,WITNESS,
+68,sample_judgement1_NER.csv,Teg Bahadur Pradhan,WITNESS,
+69,sample_judgement1_NER.csv,Budhesawr Munda,OTHER_PERSON,
+70,sample_judgement1_NER.csv,Dhritishree Barman,WITNESS,
+71,sample_judgement1_NER.csv,Nayanmoni Das,WITNESS,
+72,sample_judgement1_NER.csv,Nil,WITNESS,
+73,sample_judgement1_NER.csv,Speciat Court 6 Baksa,COURT,
+74,sample_judgement1_NER.csv,"MusHatpur,-",GPE,

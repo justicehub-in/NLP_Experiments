@@ -1,0 +1,115 @@
+,file_name,entity,label,normalised_entities
+0,sample_judgement1_NER.csv,Section 20,PROVISION,"Section 20 of Arbitration Act, 1940"
+1,sample_judgement1_NER.csv,Article 142,PROVISION,Article 142 of Constitution of India
+2,sample_judgement1_NER.csv,Article 142,PROVISION,Article 142 of Constitution of India
+3,sample_judgement1_NER.csv,Article 142,PROVISION,Article 142 of Constitution of India
+4,sample_judgement1_NER.csv,Article 142,PROVISION,Article 142 of Constitution of India
+5,sample_judgement1_NER.csv,Section 11,PROVISION,Section 11 of 1996 Act
+6,sample_judgement1_NER.csv,Section 34,PROVISION,Section 34 of 1996 Act
+7,sample_judgement1_NER.csv,Section 37,PROVISION,Section 37 of 1996 Act
+8,sample_judgement1_NER.csv,subsection (7) of Section 31,PROVISION,subsection (7) of Section 31 of 1996 Act
+9,sample_judgement1_NER.csv,Section 31(7)(a),PROVISION,Section 31(7)(a) of 1996 Act
+10,sample_judgement1_NER.csv,Section 31(7)(a),PROVISION,Section 31(7)(a) of 1996 Act
+11,sample_judgement1_NER.csv,clause (a) of sub section (7) of Section 31,PROVISION,clause (a) of sub section (7) of Section 31 of 1996 Act
+12,sample_judgement1_NER.csv,Section 11,PROVISION,Section 11 of 1996 Act
+13,sample_judgement1_NER.csv,Section 11,PROVISION,Section 11 of 1996 Act
+14,sample_judgement1_NER.csv,Section 31(7)(a),PROVISION,Section 31(7)(a) of 1996 Act
+15,sample_judgement1_NER.csv,Rajendra Construction Co. v. Maharashtra Housing & Area Development Authority and Others 1,PRECEDENT,Rajendra Construction Co. v. Maharashtra Housing & Area Development Authority and Others 1
+16,sample_judgement1_NER.csv,Rajendra Construction Co.,PRECEDENT,Rajendra Construction Co. v. Maharashtra Housing & Area Development Authority and Others 1
+17,sample_judgement1_NER.csv,Krishna Bhagya Jala Nigam Ltd. v. G. Harischandra Reddy and Another2,PRECEDENT,Krishna Bhagya Jala Nigam Ltd. v. G. Harischandra Reddy and Another2
+18,sample_judgement1_NER.csv,Krishna Bhagya Jala Nigam Ltd.,PRECEDENT,Krishna Bhagya Jala Nigam Ltd. v. G. Harischandra Reddy and Another2
+19,sample_judgement1_NER.csv,1940 Act,STATUTE,"Arbitration Act, 1940"
+20,sample_judgement1_NER.csv,1940 Act,STATUTE,"Arbitration Act, 1940"
+21,sample_judgement1_NER.csv,"Arbitration Act, 1940",STATUTE,"Arbitration Act, 1940"
+22,sample_judgement1_NER.csv,"Arbitration and Conciliation Act, 1996",STATUTE,"Arbitration and Conciliation Act, 1996"
+23,sample_judgement1_NER.csv,Constitution of India,STATUTE,Constitution of India
+24,sample_judgement1_NER.csv,Constitution of India,STATUTE,Constitution of India
+25,sample_judgement1_NER.csv,Constitution of India,STATUTE,Constitution of India
+26,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+27,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+28,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+29,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+30,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+31,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+32,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+33,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+34,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+35,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+36,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+37,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+38,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+39,sample_judgement1_NER.csv,1996 Act,STATUTE,1996 Act
+40,sample_judgement1_NER.csv,Supreme Court Of India,COURT,
+41,sample_judgement1_NER.csv,Executive Engineer,PETITIONER,
+42,sample_judgement1_NER.csv,Gokul Chandra Kanungo,RESPONDENT,
+43,sample_judgement1_NER.csv,B.R. GAVAI,JUDGE,
+44,sample_judgement1_NER.csv,18th April 2012,DATE,
+45,sample_judgement1_NER.csv,High Court of Orissa,COURT,
+46,sample_judgement1_NER.csv,Arbitration Appeal No. 25 of 2007,CASE_NUMBER,
+47,sample_judgement1_NER.csv,Kanjipani,GPE,
+48,sample_judgement1_NER.csv,Kuntala,GPE,
+49,sample_judgement1_NER.csv,16th December 1971,DATE,
+50,sample_judgement1_NER.csv,15 th December 1972,DATE,
+51,sample_judgement1_NER.csv,30th August 1977,DATE,
+52,sample_judgement1_NER.csv,25th July 1989,DATE,
+53,sample_judgement1_NER.csv,10 th August 1989,DATE,
+54,sample_judgement1_NER.csv,O.S. No. 206 of 1989,CASE_NUMBER,
+55,sample_judgement1_NER.csv,"Court of Civil Judge (Senior Division), Bhubaneswar",COURT,
+56,sample_judgement1_NER.csv,14th February 1990,DATE,
+57,sample_judgement1_NER.csv,4th February 2000,DATE,
+58,sample_judgement1_NER.csv,MJC No. 36 of 2000,CASE_NUMBER,
+59,sample_judgement1_NER.csv,15 th October 2001,DATE,
+60,sample_judgement1_NER.csv,S.K. Mohanty,JUDGE,
+61,sample_judgement1_NER.csv,15th March 2002,DATE,
+62,sample_judgement1_NER.csv,1st April 1976,DATE,
+63,sample_judgement1_NER.csv,15th March 2002,DATE,
+64,sample_judgement1_NER.csv,24 th August 2004,DATE,
+65,sample_judgement1_NER.csv,1st April 1976,DATE,
+66,sample_judgement1_NER.csv,Arbitration Petition No. 153 of 2004,CASE_NUMBER,
+67,sample_judgement1_NER.csv,"Court of District Judge, Cuttack",COURT,
+68,sample_judgement1_NER.csv,25 th July 2007,DATE,
+69,sample_judgement1_NER.csv,Sibo Sankar Mishra,OTHER_PERSON,
+70,sample_judgement1_NER.csv,Ashok Panigrahi,OTHER_PERSON,
+71,sample_judgement1_NER.csv,Mishra,OTHER_PERSON,
+72,sample_judgement1_NER.csv,14th February 1990,DATE,
+73,sample_judgement1_NER.csv,Mcdermott International Inc. v. Burn Standard Co. Ltd. and Others3,PRECEDENT,
+74,sample_judgement1_NER.csv,Panigrahi,OTHER_PERSON,
+75,sample_judgement1_NER.csv,(2005) 6 SCC 678 2 (2007) 2 SCC 720 3 (2006) 11 SCC 181,PRECEDENT,
+76,sample_judgement1_NER.csv,"Hyder Consulting (UK) Limited v. Governor, State of Orissa",PRECEDENT,
+77,sample_judgement1_NER.csv,Hyder Consulting (UK) Limited,PRECEDENT,
+78,sample_judgement1_NER.csv,Delhi Airport Metro Express Private Limited v. Delhi Metro Rail Corporation5,PRECEDENT,
+79,sample_judgement1_NER.csv,no 4 (2015) 2 SCC 189 5 2022 SCC OnLine SC 549,CASE_NUMBER,
+80,sample_judgement1_NER.csv,30st August 1977,DATE,
+81,sample_judgement1_NER.csv,25th July 1989,DATE,
+82,sample_judgement1_NER.csv,25th July 1989,DATE,
+83,sample_judgement1_NER.csv,14 th February 1990,DATE,
+84,sample_judgement1_NER.csv,4 th February 2000,DATE,
+85,sample_judgement1_NER.csv,4th February 2000,DATE,
+86,sample_judgement1_NER.csv,MJC No. 36 of 2000,CASE_NUMBER,
+87,sample_judgement1_NER.csv,15 th October 2001,DATE,
+88,sample_judgement1_NER.csv,14th February 1990,DATE,
+89,sample_judgement1_NER.csv,14 th February 1990,DATE,
+90,sample_judgement1_NER.csv,4th February 2000,DATE,
+91,sample_judgement1_NER.csv,15 th October 2001,DATE,
+92,sample_judgement1_NER.csv,14 th February 1990,DATE,
+93,sample_judgement1_NER.csv,15th October 2001,DATE,
+94,sample_judgement1_NER.csv,Rajendra Construction Co.,PRECEDENT,
+95,sample_judgement1_NER.csv,"Executive Engineer, Dhenkanal Minor Irrigation Division v. N.C. Budharaj [(2001) 2 SCC 721]",PRECEDENT,
+96,sample_judgement1_NER.csv,"Secy., Irrigation Deptt., Govt. of Orissa v. G.C. Roy [(1992) 1 SCC 508]",PRECEDENT,
+97,sample_judgement1_NER.csv,Hindustan Construction Co. Ltd. v. State of J&K [(1992) 4 SCC 217],PRECEDENT,
+98,sample_judgement1_NER.csv,"Bhagawati Oxygen Ltd. v. Hindustan Copper Ltd. [(2005) 6 SCC 462 : AIR 2005 SC 2071 :
+JT (2005) 4 SC 73]",PRECEDENT,
+99,sample_judgement1_NER.csv,C.K. Thakker,JUDGE,
+100,sample_judgement1_NER.csv,MHADA,ORG,
+101,sample_judgement1_NER.csv,Mcdermott International Inc.,ORG,
+102,sample_judgement1_NER.csv,Pure Helium India (P) Ltd. [(2003) 8 SCC 593],PRECEDENT,
+103,sample_judgement1_NER.csv,Mukand Ltd. v. Hindustan Petroleum Corpn. Ltd. [(2006) 9 SCC 383 : (2006) 4 Scale 453],PRECEDENT,
+104,sample_judgement1_NER.csv,Krishna Bhagya Jala Nigam Ltd.,PRECEDENT,
+105,sample_judgement1_NER.csv,30 th August 1977,DATE,
+106,sample_judgement1_NER.csv,25th July 1989,DATE,
+107,sample_judgement1_NER.csv,14 th February 2000,DATE,
+108,sample_judgement1_NER.csv,15th October 2001,DATE,
+109,sample_judgement1_NER.csv,B.R. GAVAI,JUDGE,
+110,sample_judgement1_NER.csv,B.V. NAGARATHNA,JUDGE,
+111,sample_judgement1_NER.csv,NEW DELHI,GPE,
+112,sample_judgement1_NER.csv,"SEPTEMBER 30, 2022",DATE,
